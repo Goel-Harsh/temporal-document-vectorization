@@ -1,0 +1,7 @@
+temporalio
+unstructured[pdf,docx,xlsx]
+openai
+pymilvus
+aiohttp
+asyncio
+python-dotenv
